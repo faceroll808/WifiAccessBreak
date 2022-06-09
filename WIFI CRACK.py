@@ -21,3 +21,6 @@ if len(profile_names) != 0:
             wifi_list.append(wifi_profile)
     for x in range(len(wifi_list)):
         print(wifi_list[x])
+
+
+    #use on computer to gain wifi password and name
