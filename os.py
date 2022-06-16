@@ -1,2 +1,2 @@
-EMAIL_USER=("blacklantern808")
-EMAIL_PASS=("US.army.87")
+EMAIL_USER=("")
+EMAIL_PASS=()
